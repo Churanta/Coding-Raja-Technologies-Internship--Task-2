@@ -7,7 +7,7 @@ This is a simple web application for a music player. It includes features like a
 
 1. **Clone the Repository:**
    ```
-   git clone <https://github.com/Churanta/Coding-Raja-Technologies-Internship--Task-2.git>
+   git clone https://github.com/Churanta/Coding-Raja-Technologies-Internship--Task-2.git
    ```
 
 2. **Open the HTML File:**
@@ -34,6 +34,7 @@ This is a simple web application for a music player. It includes features like a
 
 **Video Demo:**
 [![Video Demo](img.png)](video.mp4)
+https://github.com/Churanta/Coding-Raja-Technologies-Internship--Task-2/assets/83538805/5da87426-20a7-4703-8529-4177b97acde8
 
 ## Contributing
 
